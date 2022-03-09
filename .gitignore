@@ -1,0 +1,21 @@
+*.pdf
+*.DS_Store
+*.ini
+*.pyc
+
+#py stuff
+*.tcl
+*.msg
+*.gif
+*.eps
+*.tm
+*.enc
+*.so
+*.xsl
+*.rng
+*.dylib
+*.zip
+*.pkg
+*.toc
+
+
