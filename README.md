@@ -10,5 +10,5 @@ Features:
 
 3- Extracing images from PDF file or multiple files
 
-Simply copy the PDF files that you want to be executed to the script's directory, run the script and chose the option, and the output will be generated in a folder 'Output' in script's directory
+Simply copy the PDF files that you want to be executed to the script's directory, run the script and choose the option, and the output will be generated in a folder 'Output' in script's directory
 
