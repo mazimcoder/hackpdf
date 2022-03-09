@@ -1,4 +1,5 @@
 ======<<<	Hack PDF Tool		>>=======
+
 A portable tool to modify and maipulate PDF that works on Linux	MacOS and Windows.
 
 Features:
